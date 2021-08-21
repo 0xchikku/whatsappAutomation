@@ -1,6 +1,6 @@
-# whatsappAutomation
+# WhatsApp Automation
 Send Whatsapp Messages using Python. Whatsapp Automation
-
+---
 # How it works ⬇️
 **Step 1:** Download or Clone the code!  
 **Step 2:** Run it!  
