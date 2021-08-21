@@ -9,7 +9,7 @@ def sendMessage(mobileNo, message, hour, minute):
 # Message You Wanna Send
 message = input('Enter the message: ').strip()
 # Whatsapp Number
-mobileNo = input('Enter valid Whatsapp No with country code : ').strip()
+mobileNo = input("Enter valid receiver's Whatsapp Number with country code : ").strip()
 print('Enter time in 24hours format')
 # Time : Hour
 hour = int(input('Hours: ').strip())
